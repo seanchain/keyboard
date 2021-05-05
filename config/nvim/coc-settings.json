@@ -1,0 +1,21 @@
+{
+  "java.home": "/usr/lib/jvm/java-14-openjdk",
+  "java.jdt.ls.vmargs": "-javaagent:/usr/local/share/lombok/lombok.jar -Xbootclasspath/a:/usr/local/share/lombok/lombok.jar",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "css",
+    "scss",
+    "sass"
+  ],
+  "snippets.userSnippetsDirectory": "/home/seanchain/.config/snippets/",
+  "explorer.icon.enableNerdfont": true,
+  "explorer.keyMappings.global": {
+    "il": false,
+    "ic": false,
+    "o": ["wait", "expandable?", "expand", "open"]
+  },
+  "go.disable": {
+    "workspaceFolders": false
+  },
+  "python.pythonPath": "/home/seanchain/.pyenv/py3.8/bin/python"
+}
