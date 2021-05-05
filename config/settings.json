@@ -1,0 +1,99 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "editor.fontFamily": "'CodeNewRoman Nerd Font', 'monospace', monospace, 'Droid Sans Fallback'",
+    "keyboard.dispatch": "keyCode",
+    "editor.fontSize": 18,
+    "window.zoomLevel": 0.4,
+     "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["n"],
+      "after": ["j"]
+    },
+    {
+      "before": ["N"],
+      "after": ["J"]
+    },
+    {
+      "before": ["o"],
+      "after": ["l"]
+    },
+    {
+      "before": ["i"],
+      "after": ["k"]
+    },
+    {
+      "before": ["k"],
+      "after": ["i"]
+    },
+    {
+      "before": ["K"],
+      "after": ["I"]
+    },
+    {
+      "before": ["l"],
+      "after": ["o"]
+    },
+    {
+      "before": ["L"],
+      "after": ["O"]
+    },
+    {
+      "before": ["j"],
+      "after": ["y"]
+    },
+    {
+      "before": ["e"],
+      "after": ["d"]
+    },
+    {
+      "before": ["e", "e"],
+      "after": ["d", "d"]
+    },
+    {
+      "before": ["j", "j"],
+      "after": ["y", "y"]
+    },
+    {
+      "before": ["y"],
+      "after": ["n"]
+    },
+    {
+      "before": ["c", "k"],
+      "after": ["c", "i"]
+    },
+    {
+      "before": ["e", "k"],
+      "after": ["d", "i"]
+    },
+    {
+      "before": ["j", "k"],
+      "after": ["y", "i"]
+    },
+    {
+      "before": ["g", "e"],
+      "after": ["g", "d"]
+    }
+  ],
+  "vim.visualModeKeyBindingsNonRecursive": [
+    {
+      "before": ["n"],
+      "after": ["j"]
+    },
+    {
+      "before": ["o"],
+      "after": ["l"]
+    },
+    {
+      "before": ["i"],
+      "after": ["k"]
+    },
+    {
+      "before": ["j"],
+      "after": ["y"]
+    },
+    {
+      "before": ["e"],
+      "after": ["d"]
+    }
+  ]
+}
