@@ -90,4 +90,3 @@ vnoremap n j
 vnoremap o l
 vnoremap i k
 
-vnoremap j y
